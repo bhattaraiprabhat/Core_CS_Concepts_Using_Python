@@ -1,0 +1,10 @@
+When it comes to the task of string handling (searching text, replacing text, matching pattern in text etc)"regular expression" comes as a powerful and an efficient tool. In python 're' module provides the regular expression support.
+
+So start 're' using importing the module:
+
+import re
+
+
+Please use "python_reg.py" for step by step application for the regular
+expression. 
+
